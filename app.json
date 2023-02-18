@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b17187ef-908a-464b-8d48-49a34a8434d1"
+      }
+    },
+    "owner": "zahraabdullah"
   }
 }
